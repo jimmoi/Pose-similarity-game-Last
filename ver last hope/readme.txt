@@ -1,6 +1,6 @@
 วิธีใช้งาน
 1. ติดตั้ง python 3.10.12 และ ติดตั้ง package ตาม requirement เข้า cmd "พิมพ์ pip install -r ที่อยู่ไฟลrequirement"
-5.เปิด folder "ver.2 but 95% yet" ด้วย  VScode ทำการ trust folder
+5.เปิด folder "ver last hope" ด้วย  VScode ทำการ trust folder
 3. นำรูป reference ไปวางไว้ไน "\raw ref img\put image here"
 4. ทำการ execute file ที่ชื่อว่า "Run this file" ใน vscode  
 	หรือ copy path "Run this file" และ เข้า cmd activate env ให้เรียบร้อย พิมพ์ python ตามด้วย path "Run this file"
