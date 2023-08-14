@@ -1,6 +1,6 @@
 image_scale = 1000
 round_pose = 1 #----> less than number of image
-scale = 1 #default is 1 ---->round 2:4k | 4/3:2k | 1:FHD
+scale = 1 #default is 1 ---->round 2:4k | 4/3:2k | 1:FHD is **it depends on your webcam resolution
 cam_type = "Ver" #"Hor = Horizontal cam, Ver = Vertical cam"
 crop_Hor = 0
 crop_Ver = 0
